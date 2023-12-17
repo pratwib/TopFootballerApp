@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Top 10 Footballer 2022</string>
+
+    <string name="footballer_name">Nama Pemain</string>
+    <string name="footballer_age">Umur Pemain</string>
+    <string name="footballer_position">Posisi Pemain</string>
+    <string name="footballer_price">Harga Pemain</string>
+    <string name="footballer_description">Deskripsi Pemain</string>
+    <string name="footballer_link">Link Pemain</string>
+
+    <string name="data">Data Pemain</string>
+    <string name="age">Umur  : </string>
+    <string name="position">Posisi : </string>
+    <string name="price">Harga : </string>
+    <string name="description">Deskripsi</string>
+
+    <string name="profile_name">Pratama Wibi</string>
+    <string name="profile_email">pratamawibi24@gmail.com</string>
+
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Lionel Messi</item>
+        <item>Kylian Mbappe</item>
+        <item>Kevin De Bruyne</item>
+        <item>Neymar</item>
+        <item>Karim Benzema</item>
+        <item>Robert Lewandowski</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Luka Modric</item>
+        <item>Vinicius Junior</item>
+        <item>Harry Kane</item>
+    </string-array>
+    <string-array name="data_age">
+        <item>35</item>
+        <item>24</item>
+        <item>31</item>
+        <item>31</item>
+        <item>35</item>
+        <item>34</item>
+        <item>38</item>
+        <item>37</item>
+        <item>22</item>
+        <item>29</item>
+    </string-array>
+    <string-array name="data_position">
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Midfielder</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Midfielder</item>
+        <item>Forward</item>
+        <item>Forward</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>€50.00m</item>
+        <item>€180.00m</item>
+        <item>€80.00m</item>
+        <item>€75.00m</item>
+        <item>€35.00m</item>
+        <item>€45.00m</item>
+        <item>€20.00m</item>
+        <item>€10.00m</item>
+        <item>€120.00m</item>
+        <item>€90.00m</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Tentu saja Lionel Messi adalah nomor satu dalam daftar. Dia adalah satu di antara pemain terbaik di duniadan ini kemungkinan akan menjadi kesempatan terakhirnya untuk memenangkan Piala Dunia. Pada usia 35 tahun, Messi berada di musim keduanya bersama PSG dan sejauh ini telah mencetak 12 gol dan 14 assist hanya dalam 18 pertandingan. Dia sudah mendapatkan gelar Copa America. Sekarang Messi hanya membutuhkan trofi terakhir bersama Argentina untuk melengkapi koleksinya.</item>
+        <item>Pada usianya yang baru 23 tahun, Kylian Mbappe dianggap sebagai satu di antara pemain terbaik di dunia saat ini. Setelah menjadi remaja pertama yang mencetak dua gol di Piala Dunia dalam kemenangan Prancis atas Kroasia di Piala Dunia 2018 di Rusia (total empat gol dan satu assist), Mbappe telah berubah dari bintang yang sedang naik daun menjadi superstar. Untuk PSG musim ini, dia telah menyumbangkan 18 gol dan lima assist hanya dalam 19 pertandingan. Dia akan menjadi pemain kunci serangan Prancis di Qatar.</item>
+        <item>Sebagai pengumpan yang sangat baik dan juga penembak, Kevin De Bruyne adalah aset bagi tim mana pun yang memilikinya. Di Timnas Belgia dan di tim Manchester City, semua serangan melalui De Bruyne terlebih dahulu. KDB merupakan satu di antara gelandang terbaik dalam sejarah sepak bola. Dia akan menjadi kunci untuk membantu Belgia melambung ke puncak Grup F.</item>
+        <item>Neymar dan Brasil sama-sama top di Piala Dunia 2022. Neymar akan menjalani Piala Dunia ketiganya. Musim ini di PSG, ia mencetak 15 gol dan 12 assist dalam 19 pertandingan. Meski tanpa Messi dan Mbappe, Neymar tetap menjadi ancaman. Bersama Brasil, dia akan bermain bersama pemain hebat lainnya seperti Vinicius Junior, Richarlison, dan Raphinha. Namun Neymar akan menjadi fokus serangan.</item>
+        <item>Meski Prancis tersingkir dari Euro 2020, Benzema masih menjadi satu di antara pencetak gol terbaik dalam ajang tersebut. Pemenang Ballon dOr itu tahu bagaimana tampil di momen-momen sulit dan akan memiliki pemain yang spektakuler di Prancis, termasuk Mbappe. Benzema baru saja memenangkan Liga Champions bersama Real Madrid dan sekarang akan mengincar gelar Piala Dunia pertamanya, setelah pada edisi 2018 lalu ia tak masuk skuad Prancis.</item>
+        <item>Lewandowski tidak melambat. Baru pertengahan musim, ia mencetak 18 gol dalam 19 pertandingan bersama Barcelona setelah meninggalkan Bayern Munich. Ibaratnya, tidak peduli siapa yang ada di sekitarnya, Lewandowski akan menemukan jaringnya. Lewy ke Piala Dunia dengan modal itu dan dia adalah aset berharga Polandia di Qatar.</item>
+        <item>Cristiano Ronaldo tetap menjadi andalan Portugal di tengah masa-masa sulit dengan Manchester United. Terlepas dari masalah musim ini, Cristiano Ronaldo menuju Piala Dunia kelimanya dan itu bukanlah perjalanan yang mudah. Portugal lolos ke babak playoff dengan mengalahkan Makedonia Utara. Semua mata akan tertuju pada Ronaldo untuk membantu memimpin mereka lebih jauh di turnamen. Ronaldo memiliki 117 gol dalam 191 pertandingan dengan Portugal dan merupakan pencetak gol terbanyak sepanjang masa.</item>
+        <item>Seperti Messi dan Ronaldo, ini bisa menjadi perjalanan terakhir Modric di Piala Dunia. Menuju ke 4 pada usia 37 tahun, dia akan memiliki keberanian ekstra dalam dirinya untuk membantu memimpin Kroasia. Modric di Real Madrid, membuat lima gol dan dua assist dan telah bermain lebih dari 1.000 menit dan tidak menunjukkan tanda-tanda melambat. Kroasia mungkin tidak memiliki kelompok superstar yang sama dengan yang dimiliki Madrid, tetapi Modric akan memastikan bahwa ia membawa mereka sejauh mungkin.</item>
+        <item>Vinicius Junior menuju Piala Dunia pertamanya pada usia 22 tahun. Setelah awal yang lambat dengan Real Madrid, Vinicius telah berkembang menjadi bintang yang sedang naik daun. Bermain bersama Benzema, keduanya menjadi ancaman ganda. Peningkatannya dari musim 2019/2020 ke musim 2020/2021 sangat mengesankan. Meningkat dari enam gol dan tujuh assist di 2019 menjadi 22 gol dan 20 assist di musim berikutnya. Di Timnas Brasil, dia akan mendapat dukungan dari Neymar untuk menimbulkan masalah bagi pertahanan lawan.</item>
+        <item>Harry Kane akan menjadi kunci besar bagi kelangsungan hidup Inggris Piala Dunia. Kane telah mencetak 12 gol dan memiliki tiga assist dalam 20 pertandingan bersama Tottenham. Sayangnya, di skuad Inggris ada banyak pemain kunci yang berjuang dengan cedera, yang berarti tekanan semakin besar untuk Kane.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93088.jpg/800px-2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93088.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2021-12-07_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2782_by_Stepro.jpg/330px-2021-12-07_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2782_by_Stepro.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg/330px-20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Neymar_850_1705.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg/330px-Karim_Benzema_wearing_Real_Madrid_home_kit_2021-2022.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/2019147200143_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_2462_-_B70I0762_%28cropped%29_%28cropped%29.jpg/255px-2019147200143_2019-05-27_Fussball_1.FC_Kaiserslautern_vs_FC_Bayern_M%C3%BCnchen_-_Sven_-_1D_X_MK_II_-_2462_-_B70I0762_%28cropped%29_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg/255px-Manchester_United_v_Newcastle_United%2C_11_September_2021_%2810%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/ISL-HRV_%287%29.jpg/255px-ISL-HRV_%287%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Vinicius_Jr_2018_%28cropped%29.jpg/255px-Vinicius_Jr_2018_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Harry_Kane_in_Russia_2.jpg/330px-Harry_Kane_in_Russia_2.jpg</item>
+    </string-array>
+    <string-array name="data_link">
+        <item>https://en.wikipedia.org/wiki/Lionel_Messi</item>
+        <item>https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9</item>
+        <item>https://en.wikipedia.org/wiki/Kevin_De_Bruyne</item>
+        <item>https://en.wikipedia.org/wiki/Neymar</item>
+        <item>https://en.wikipedia.org/wiki/Karim_Benzema</item>
+        <item>https://en.wikipedia.org/wiki/Robert_Lewandowski</item>
+        <item>https://en.wikipedia.org/wiki/Cristiano_Ronaldo</item>
+        <item>https://en.wikipedia.org/wiki/Luka_Modri%C4%87</item>
+        <item>https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior</item>
+        <item>https://en.wikipedia.org/wiki/Harry_Kane</item>
+    </string-array>
+</resources>

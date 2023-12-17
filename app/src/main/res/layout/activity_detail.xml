@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_footballer_photo"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+
+            android:layout_marginTop="32dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:src="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/tv_footballer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/img_footballer_photo"
+            tools:text="@string/footballer_name" />
+
+        <TextView
+            android:id="@+id/tv_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_footballer_name"
+            android:text="@string/data" />
+
+        <TextView
+            android:id="@+id/tv_data_age"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="@+id/tv_data"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data"
+            android:text="@string/age" />
+
+        <TextView
+            android:id="@+id/tv_footballer_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:textSize="15sp"
+            app:layout_constraintStart_toEndOf="@+id/tv_data_age"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data"
+            tools:text="@string/footballer_age" />
+
+        <TextView
+            android:id="@+id/tv_data_position"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="@+id/tv_data_age"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_age"
+            android:text="@string/position" />
+
+        <TextView
+            android:id="@+id/tv_footballer_position"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:textSize="15sp"
+            app:layout_constraintStart_toEndOf="@+id/tv_data_position"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_age"
+            tools:text="@string/footballer_position" />
+
+        <TextView
+            android:id="@+id/tv_data_price"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            app:layout_constraintStart_toStartOf="@+id/tv_data_position"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_position"
+            android:text="@string/price" />
+
+        <TextView
+            android:id="@+id/tv_footballer_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:textSize="15sp"
+            app:layout_constraintStart_toEndOf="@+id/tv_data_price"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_position"
+            tools:text="@string/footballer_price" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="@+id/tv_data_price"
+            app:layout_constraintTop_toBottomOf="@+id/tv_data_price"
+            android:text="@string/description" />
+
+        <TextView
+            android:id="@+id/tv_footballer_description"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:justificationMode="inter_word"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/tv_description"
+            app:layout_constraintTop_toBottomOf="@+id/tv_description"
+            tools:text="@string/footballer_description" />
+
+        <Button
+            android:id="@+id/bt_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SHARE"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_footballer_description"
+            tools:layout_editor_absoluteX="161dp" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
